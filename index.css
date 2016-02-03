@@ -1,0 +1,110 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  font-family: "cursive", cursive;
+  background-color: #F5F6CE;
+  font-size: 50px;
+  text-align: center;
+  letter-spacing: 1.00em;
+  text-shadow: 2px 2px 2px #ccc;
+}
+
+h3 {
+  font-family: "Times New Roman", serif;
+  text-align: center;
+  letter-spacing: 0.10em;
+}
+
+.X {
+  font-family: "Times New Roman", serif;
+  letter-spacing: 0.10em;
+}
+
+.Y {
+  max-width: 180px;
+  max-height: 180px;
+  border: 1px solid #000;
+  border-radius: 40px;
+}
+
+.A {
+  margin: 0px 0px 0px 70px;
+}
+ 
+.a {
+  vertical-align: middle;
+}
+
+.a img {
+  margin: 10px;
+  padding: 0px;
+}
+
+.B {
+  text-align: right;
+  margin: 0px 60px 0px 0px;
+  padding: 0px;
+}
+
+.b {
+  vertical-align: middle;
+  text-align: right;
+}
+
+.b img {
+  margin: 10px;
+  padding: 0px;
+}
+
+.C {
+  margin: 0px 0px 0px 58px;
+}
+ 
+.c {
+  vertical-align: middle;
+}
+
+.c img {
+  margin: 10px;
+  padding: 0px;
+}
+
+.D {
+  text-align: right;
+  margin: 0px 54px 0px 0px;
+}
+
+.d {
+  vertical-align: middle;
+  text-align: right;
+}
+
+.d img {
+  margin: 10px;
+  padding: 0px;
+}
+
+.sen {
+  text-align: center;
+}
+
+.Z {
+  background-color: #F5F6CE;
+  margin: 0px;
+  padding: 0px;
+}
+
+#h {
+  margin: 0px 0px 40px 0px;
+  padding: 0px;
+}
+
+footer {
+  background-color: #eee;
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+}
